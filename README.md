@@ -1,4 +1,4 @@
 # newrepo
-demo website
-Hello I am interested in programming 
-Currently I am learning Web Development
+👋 Hi, I’m @SuryaNemiwal
+👀 I’m interested in programming
+🌱 I’m currently learning web development
