@@ -1,1 +1,4 @@
-this is a README file for my new repo
+# comp-lib
+👋 Hi, I’m @SuryaNemiwal
+👀 I’m interested in programming
+🌱 I’m currently learning web development
